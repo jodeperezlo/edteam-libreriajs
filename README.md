@@ -34,3 +34,11 @@ La finalidad del módulo 1 es comprender qué es React JS, cómo funciona y cóm
 ### Autor: Jorge de Jesús Pérez López 🧑‍💻
 
 El autor intelectual de este proyecto es [EDteam](https://app.ed.team/); [Jorge de Jesús Pérez López](https://portfolio-jorgeperez.netlify.app/) agregó este repositorio para que puedas ver el código fuente de este proyecto y comprender, aprender, agregando algunas características extra, formando un NavBar personalizado, que funcione como un menú de navegación, utilizando la pequeña librería que creamos.
+
+<br/>
+
+# Final result:
+
+<br/>
+
+![Imagen del NavBar personalizado con la Librería JS](./assets/img/EDteam-Demo.png)
